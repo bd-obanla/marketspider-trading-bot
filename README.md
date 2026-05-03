@@ -1,14 +1,18 @@
-# 🕷️ MarketSpider Trading Bot
+#  MarketSpider Trading Bot
 
 MarketSpider is an advanced multi-market scalping Expert Advisor (EA) built using MQL5 for MetaTrader 5.
 
-## 📸 Preview
+##  Preview
 
 <p align="center">
   <img src="https://github.com/bd-obanla/marketspider-trading-bot/blob/main/marketspider-preview.jpg" width="600"/>
-</p>
+</p> 
 
-## 🚀 Features
+<p align="center">
+  <img src="https://github.com/bd-obanla/marketspider-trading-bot/blob/main/marketspider-preview2.jpg" width="600"/>
+</p> 
+
+##  Features
 - Multi-market support (Forex, Crypto, Stocks, Synthetic Indices)
 - Automated Buy/Sell execution
 - Risk management system (dynamic scaling)
@@ -21,11 +25,11 @@ Based on:
 - Time-based entries
 - Liquidity zones
 
-## ⚙️ Technologies Used
+##  Technologies Used
 - MQL5 (MetaTrader 5)
 - Trade classes (CTrade, PositionInfo, OrderInfo)
 
-## 📂 File
+##  File
 - `MarketSpider.mq5` → Main trading bot source code
 
 ## 👨‍💻 Author
